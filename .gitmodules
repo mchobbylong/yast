@@ -1,0 +1,3 @@
+[submodule "PyGram"]
+	path = PyGram
+	url = git@github.com:roastduck/PyGram.git
