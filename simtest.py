@@ -1,7 +1,5 @@
 #!/usr/bin/python2
-import sys
-sys.path.append("/home/user/src/yast/PyGram")
-import tree, PyGram
+import sys, tree, PyGram
 
 def newTree(path):
 	nodes = {}
